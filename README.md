@@ -72,7 +72,7 @@ This project analyzes customer churn in a telecom subscription-based business us
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Customer-Churn-Analysis Dashboard.png)
+![Dashboard](Customer-Churn-Analysis-Dashboard.png)
 
 ---
 
